@@ -1,1 +1,1 @@
-# Simulador-de-mega-sena
+# megasena-2A
